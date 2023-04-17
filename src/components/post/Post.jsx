@@ -12,7 +12,7 @@ function Post({ post }) {
 
     const [openComment, setOpenComment] = useState(false);
 
-    //!TEMPORARY
+    //?TEMPORARY
     const liked = false;
 
     return (

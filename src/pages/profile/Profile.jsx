@@ -22,7 +22,7 @@ const Profile = () => {
                 <img src={loggedUser.profilePic} alt="" className='profilePic' />
             </div>
             <div className="profileContainer">
-                <div className="userInfo">
+                <div className="userDetails">
                     <div className="left">
                         <a href="http://facebook.com">
                             <FacebookTwoToneIcon fontSize='large' />
